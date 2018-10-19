@@ -1,4 +1,4 @@
-# Zenapply API v2
+# Zenapply Common
 [![Latest Version](https://img.shields.io/github/release/zenapply/common.svg?style=flat-square)](https://github.com/zenapply/common/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://travis-ci.org/zenapply/common.svg?branch=master)](https://travis-ci.org/zenapply/common)
