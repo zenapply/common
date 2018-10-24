@@ -8,4 +8,5 @@ interface Onboard
     public function getLocationId();
     public function getHiredDate();
     public function getEmployeeType();
+    public function getExtraData();
 }

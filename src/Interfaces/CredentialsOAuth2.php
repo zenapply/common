@@ -2,7 +2,7 @@
 
 namespace Zenapply\Common\Interfaces;
 
-interface Credentials
+interface CredentialsOAuth2
 {
     public function getClientId();
     public function getClientSecret();
