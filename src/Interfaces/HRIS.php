@@ -4,5 +4,5 @@ namespace Zenapply\Common\Interfaces;
 
 interface HRIS
 {
-    public function hire(Employable $applicant, Job $job);
+    public function hire(Employable $applicant, Onboard $onboard);
 }
