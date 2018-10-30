@@ -9,4 +9,5 @@ interface Onboard
     public function getHiredDate();
     public function getEmployeeType();
     public function getExtraData();
+    public function getPayType();
 }
