@@ -2,6 +2,9 @@
 
 All notable changes to `zenapply/common` will be documented in this file.
 
+### 3.0.0
+- Added cost center functions to Onboard interface
+
 ### 2.0.0
 - Added getUsername to Employable interface
 
