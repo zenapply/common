@@ -2,6 +2,9 @@
 
 All notable changes to `zenapply/common` will be documented in this file.
 
+### 4.0.0
+- Added getHrisCostCenter1, getHrisCostCenter2, getHrisCostCenter3, getHrisPositionId, getHrisLocationId to Onboard
+
 ### 3.0.0
 - Added cost center functions to Onboard interface
 

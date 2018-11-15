@@ -10,7 +10,9 @@ interface Onboard
     public function getEmployeeType();
     public function getExtraData();
     public function getPayType();
-    public function getCostCenter1();
-    public function getCostCenter2();
-    public function getCostCenter3();
+    public function getHrisCostCenter1();
+    public function getHrisCostCenter2();
+    public function getHrisCostCenter3();
+    public function getHrisPositionId();
+    public function getHrisLocationId();
 }
