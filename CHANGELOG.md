@@ -2,6 +2,8 @@
 
 All notable changes to `zenapply/common` will be documented in this file.
 
+### 5.0.0
+- Added getHiredDateAsString
 ### 4.0.0
 - Added getHrisCostCenter1, getHrisCostCenter2, getHrisCostCenter3, getHrisPositionId, getHrisLocationId to Onboard
 
