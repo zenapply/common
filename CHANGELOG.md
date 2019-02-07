@@ -2,8 +2,12 @@
 
 All notable changes to `zenapply/common` will be documented in this file.
 
+### 6.0.0
+- Added getEmployeeId and getApplicantId to Employable
+
 ### 5.0.0
 - Added getHiredDateAsString
+
 ### 4.0.0
 - Added getHrisCostCenter1, getHrisCostCenter2, getHrisCostCenter3, getHrisPositionId, getHrisLocationId to Onboard
 

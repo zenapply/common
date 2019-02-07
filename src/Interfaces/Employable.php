@@ -4,6 +4,8 @@ namespace Zenapply\Common\Interfaces;
 
 interface Employable
 {
+    public function getApplicantId();
+    public function getEmployeeId();
     public function getEmail();
     public function getUsername();
     public function getPhone();
