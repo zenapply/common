@@ -2,6 +2,9 @@
 
 All notable changes to `zenapply/common` will be documented in this file.
 
+### 6.1.0
+- Added LdJsonable interface
+
 ### 6.0.0
 - Added getEmployeeId and getApplicantId to Employable
 
